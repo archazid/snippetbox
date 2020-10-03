@@ -8,8 +8,8 @@ import (
 )
 
 type application struct {
-	infoLog *log.Logger
 	errorLog *log.Logger
+	infoLog *log.Logger
 }
 
 func main() {
@@ -20,8 +20,8 @@ func main() {
 	errorLog := log.New(os.Stderr, "ERROR\t", log.Ldate|log.Ltime|log.Lshortfile)
 
 	app := &application{
-		infoLog: infoLog,
 		errorLog: errorLog,
+		infoLog: infoLog,
 	}
 
 	mux := http.NewServeMux()
