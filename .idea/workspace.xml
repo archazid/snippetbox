@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c40e4b1-455b-47f5-b13d-b0190a42c295" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -77,6 +78,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597584252653" />
+    <state x="64" y="209" key="#SQL_Dialects" timestamp="1601810012938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="209" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1601810012938" />
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601810059602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601810059602" />
     <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601542294089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
