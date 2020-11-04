@@ -21,13 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9c40e4b1-455b-47f5-b13d-b0190a42c295" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/handlers.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/handlers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/helpers.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/helpers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/templates.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ui/html/footer.partial.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/web/ui/html/footer.partial.tmpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ui/html/home.page.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/web/ui/html/home.page.tmpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ui/html/show.page.tmpl" beforeDir="false" afterPath="$PROJECT_DIR$/web/ui/html/show.page.tmpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/routes.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +44,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +76,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="475" y="22" key="#GOPATH" timestamp="1603836539000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="22" key="#GOPATH/0.0.1366.728@0.0.1366.728" timestamp="1603836539000" />
     <state x="475" y="197" key="#Go_Modules" timestamp="1597584229131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -92,13 +96,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601810059602" />
-    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601542294089">
+    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603836616012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601542294089" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1597594135508">
+    <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603836616012" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1603777205411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597594135508" />
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603777205411" />
   </component>
 </project>
